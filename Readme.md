@@ -1,1 +1,1 @@
-## Let's get Rusty :)
+# Let's get Rusty :)
